@@ -1,4 +1,4 @@
-In this small assignment-cum-project I have performed basic analysis on the IMDb database. The work in this assignment was inspired by Database Systtem course in CMU taught by Dr. Andy Pavlo.
+In this small assignment-cum-project I have performed basic analysis on the IMDb database. The work in this assignment was inspired by Database System course in CMU taught by Dr. Andy Pavlo.
 The URL for the database is : https://15445.courses.cs.cmu.edu/fall2019/files/imdb-cmudb2019.db.gz
 after downloading and unzipping it. You can open the database in any SQLite3 browser and run the file "IMDbAnalysis.sql" from this repository.
 
@@ -9,7 +9,7 @@ In this project I have performed EDA on the data to answer common questions like
 an so on
 
 For this analysis I used
-1. Aggregate Functions like GORUP BY
+1. Aggregate Functions like GROUP BY
 2. String Functions like '||'
 3. Output Control Functions like WHERE, ORDER BY, LIMIT
 4. Nested queries like advanced select 
